@@ -1,0 +1,30 @@
+=============================================================
+         HOSPITAL DOCTOR MANAGEMENT SYSTEM
+                   Doctor Records
+=============================================================
+
+Doctor ID : 1
+Name : Dr. Kasthu
+Specialization : Brain
+Available Slots : 9AM-11AM, 3PM-5PM, 8PM-10PM
+Slot Capacities : [5, 5, 5]
+Consultation Fee : Rs 500.0
+-------------------------------------------------------------
+Doctor ID : 2
+Name : Dr. Ben
+Specialization : Neuro
+Available Slots : 5PM-8PM, 1PM-3PM
+Slot Capacities : [3, 3]
+Consultation Fee : Rs 600.0
+-------------------------------------------------------------
+Doctor ID : 3
+Name : Dr. ben
+Specialization : eye
+Available Slots : 9PM-11PM, 10AM-12PM
+Slot Capacities : [4, 4]
+Consultation Fee : Rs 500.0
+-------------------------------------------------------------
+
+Total Doctors: 3
+
+Generated on: 2025-11-19T19:50:56.091828900
